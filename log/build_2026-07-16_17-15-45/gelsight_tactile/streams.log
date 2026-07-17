@@ -1,0 +1,29 @@
+[0.492s] Invoking command in '/home/potato/yang/src/gelsight_tactile': PYTHONPATH=/home/potato/yang/build/gelsight_tactile/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gelsight_tactile build --build-base /home/potato/yang/build/gelsight_tactile/build install --record /home/potato/yang/build/gelsight_tactile/install.log --single-version-externally-managed install_data
+[0.682s] running egg_info
+[0.682s] writing ../../build/gelsight_tactile/gelsight_tactile.egg-info/PKG-INFO
+[0.682s] writing dependency_links to ../../build/gelsight_tactile/gelsight_tactile.egg-info/dependency_links.txt
+[0.682s] writing entry points to ../../build/gelsight_tactile/gelsight_tactile.egg-info/entry_points.txt
+[0.682s] writing requirements to ../../build/gelsight_tactile/gelsight_tactile.egg-info/requires.txt
+[0.682s] writing top-level names to ../../build/gelsight_tactile/gelsight_tactile.egg-info/top_level.txt
+[0.683s] reading manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+[0.684s] writing manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+[0.684s] running build
+[0.684s] running build_py
+[0.684s] copying gelsight_tactile/reconstructor.py -> /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile
+[0.684s] running install
+[0.684s] running install_lib
+[0.685s] copying /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile/reconstructor.py -> /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile
+[0.685s] byte-compiling /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile/reconstructor.py to reconstructor.cpython-310.pyc
+[0.686s] running install_data
+[0.686s] running install_egg_info
+[0.687s] removing '/home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile-0.0.0-py3.10.egg-info' (and everything under it)
+[0.687s] Copying ../../build/gelsight_tactile/gelsight_tactile.egg-info to /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile-0.0.0-py3.10.egg-info
+[0.688s] running install_scripts
+[0.701s] Installing camera_viewer script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+[0.701s] Installing collect_calib_data script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+[0.701s] Installing poisson_solver script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+[0.701s] Installing reconstructor script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+[0.701s] Installing reconstructor_node script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+[0.701s] Installing visualizer3d script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+[0.701s] writing list of installed files to '/home/potato/yang/build/gelsight_tactile/install.log'
+[0.719s] Invoked command in '/home/potato/yang/src/gelsight_tactile' returned '0': PYTHONPATH=/home/potato/yang/build/gelsight_tactile/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gelsight_tactile build --build-base /home/potato/yang/build/gelsight_tactile/build install --record /home/potato/yang/build/gelsight_tactile/install.log --single-version-externally-managed install_data

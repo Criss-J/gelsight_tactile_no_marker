@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/gelsight_tactile/gelsight_tactile.egg-info/PKG-INFO
+writing dependency_links to ../../build/gelsight_tactile/gelsight_tactile.egg-info/dependency_links.txt
+writing entry points to ../../build/gelsight_tactile/gelsight_tactile.egg-info/entry_points.txt
+writing requirements to ../../build/gelsight_tactile/gelsight_tactile.egg-info/requires.txt
+writing top-level names to ../../build/gelsight_tactile/gelsight_tactile.egg-info/top_level.txt
+reading manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+writing manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+running build
+running build_py
+copying gelsight_tactile/collect_calib_data.py -> /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile
+running install
+running install_lib
+copying /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile/collect_calib_data.py -> /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile
+byte-compiling /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile/collect_calib_data.py to collect_calib_data.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/gelsight_tactile/gelsight_tactile.egg-info to /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_viewer script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+Installing collect_calib_data script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+writing list of installed files to '/home/potato/yang/build/gelsight_tactile/install.log'

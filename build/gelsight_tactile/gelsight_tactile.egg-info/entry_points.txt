@@ -1,0 +1,8 @@
+[console_scripts]
+camera_viewer = gelsight_tactile.camera_viewer:main
+collect_calib_data = gelsight_tactile.collect_calib_data:main
+poisson_solver = gelsight_tactile.poisson_solver:main
+reconstructor = gelsight_tactile.reconstructor:main
+reconstructor_node = gelsight_tactile.reconstructor_node:main
+visualizer3d = gelsight_tactile.visualizer3d:main
+

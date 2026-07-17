@@ -1,0 +1,6 @@
+source;share/gelsight_tactile/hook/pythonpath.ps1
+source;share/gelsight_tactile/hook/pythonpath.dsv
+source;share/gelsight_tactile/hook/pythonpath.sh
+source;share/gelsight_tactile/hook/ament_prefix_path.ps1
+source;share/gelsight_tactile/hook/ament_prefix_path.dsv
+source;share/gelsight_tactile/hook/ament_prefix_path.sh

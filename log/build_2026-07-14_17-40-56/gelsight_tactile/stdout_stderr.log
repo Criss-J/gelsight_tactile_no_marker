@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/gelsight_tactile/gelsight_tactile.egg-info
+writing ../../build/gelsight_tactile/gelsight_tactile.egg-info/PKG-INFO
+writing dependency_links to ../../build/gelsight_tactile/gelsight_tactile.egg-info/dependency_links.txt
+writing entry points to ../../build/gelsight_tactile/gelsight_tactile.egg-info/entry_points.txt
+writing requirements to ../../build/gelsight_tactile/gelsight_tactile.egg-info/requires.txt
+writing top-level names to ../../build/gelsight_tactile/gelsight_tactile.egg-info/top_level.txt
+writing manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+reading manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+writing manifest file '../../build/gelsight_tactile/gelsight_tactile.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/potato/yang/build/gelsight_tactile/build
+creating /home/potato/yang/build/gelsight_tactile/build/lib
+creating /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile
+copying gelsight_tactile/__init__.py -> /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile
+copying gelsight_tactile/camera_viewer.py -> /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile
+running install
+running install_lib
+creating /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile
+copying /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile/__init__.py -> /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile
+copying /home/potato/yang/build/gelsight_tactile/build/lib/gelsight_tactile/camera_viewer.py -> /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile
+byte-compiling /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile/camera_viewer.py to camera_viewer.cpython-310.pyc
+running install_data
+creating /home/potato/yang/install/gelsight_tactile/share/ament_index
+creating /home/potato/yang/install/gelsight_tactile/share/ament_index/resource_index
+creating /home/potato/yang/install/gelsight_tactile/share/ament_index/resource_index/packages
+copying resource/gelsight_tactile -> /home/potato/yang/install/gelsight_tactile/share/ament_index/resource_index/packages
+copying package.xml -> /home/potato/yang/install/gelsight_tactile/share/gelsight_tactile
+running install_egg_info
+Copying ../../build/gelsight_tactile/gelsight_tactile.egg-info to /home/potato/yang/install/gelsight_tactile/lib/python3.10/site-packages/gelsight_tactile-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_viewer script to /home/potato/yang/install/gelsight_tactile/lib/gelsight_tactile
+writing list of installed files to '/home/potato/yang/build/gelsight_tactile/install.log'

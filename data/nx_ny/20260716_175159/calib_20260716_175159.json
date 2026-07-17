@@ -1,0 +1,17 @@
+{
+  "px_per_mm": 12.192550349441605,
+  "ball_radius_mm": 1.5,
+  "timestamp": "20260716_175159",
+  "n_frames": 89,
+  "n_train_samples": 93343,
+  "n_val_samples": 23336,
+  "column_order": [
+    "R",
+    "G",
+    "B",
+    "X_px",
+    "Y_px",
+    "nx",
+    "ny"
+  ]
+}
