@@ -293,6 +293,12 @@ n = [−Gx, −Gy, 1] / ‖·‖  →  (nx, ny)
 
 ---
 
+## 9. 실행 화면 및 GUI 화면
+<img width="631" height="479" alt="image" src="https://github.com/user-attachments/assets/ab24a242-cf73-45fb-8113-614b6244348c" />
+<img width="1294" height="1001" alt="image" src="https://github.com/user-attachments/assets/58af6f91-fa44-4f2c-ad08-346a2f7b9034" />
+
+
+
 ## License
 
 `poisson_solver.py`는 GPL-3.0 라이선스인 gsrobotics 코드를 기반으로 하므로, 본 저장소 전체에 GPL-3.0이 적용됩니다.
