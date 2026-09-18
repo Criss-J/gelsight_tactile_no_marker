@@ -4,7 +4,7 @@ GelSight Mini 제품과 [GelSight Wedge 논문](https://arxiv.org/abs/2106.08851
 라즈베리파이 카메라로 엘라스토머(젤) 표면의 변형을 촬영하고, **MLP + Poisson Solver**를 통해 실시간으로 접촉면의 3D 형상(depth map)을 복원합니다.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NuVmtnSR1Pdkjr_rCHJ320J_mM-WohQ0/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1NuVmtnSRlPdkjr_rCHJ320J_mM-WohQO/view?usp=sharing">
     <img src="./demo.png" alt="GelSight Demo Video" width="700">
   </a>
 </p>
